@@ -1,9 +1,6 @@
 {
-  "name": "error",
-  "version": "0.0.2",
-  "repository": {"type":"git", "url":"https://github.com/lvivier/error.git"},
+  "name": "lvivier-error",
   "description": "Custom error constructors",
-  "author": "Luke Vivier <luke@vivier.ca>",
-  "main": "index.js",
-  "browserify": "index.js"
+  "version": "0.0.2",
+  "dependencies": {}
 }
